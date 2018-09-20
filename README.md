@@ -2,7 +2,7 @@
 ## Android programming with App Inventor
 
 ### Guess the number application   
-**User Interface**
+**User Interface**   
 <img src="https://i.imgur.com/L4ZcTQT.png" width=200 height=300 />
 
 **Code Blocks**   
